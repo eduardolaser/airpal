@@ -1,1 +1,2 @@
 # airpal
+./gradlew clean shadowJar
